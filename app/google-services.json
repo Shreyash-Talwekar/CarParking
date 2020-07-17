@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377835111799",
+    "firebase_url": "https://carparking-3bb9e.firebaseio.com",
+    "project_id": "carparking-3bb9e",
+    "storage_bucket": "carparking-3bb9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377835111799:android:8cd120d8329e17d6",
+        "android_client_info": {
+          "package_name": "com.shreyash25.carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377835111799-2rorctu7k0q62hjn4hf11bj2k0d4pie3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreyash25.carparking",
+            "certificate_hash": "d0bcddf3f0d52c7229dc26034407ae9fcacd7e9c"
+          }
+        },
+        {
+          "client_id": "377835111799-q3t53a0mb4v8mvbecro5mkus88ilupct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrl2Rg2jbYzHYCG_B8My14I1DRpyN0Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377835111799-q3t53a0mb4v8mvbecro5mkus88ilupct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
